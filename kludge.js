@@ -1,1 +1,1 @@
-document.write('Hello Wordl');
+document.write('Hello Wordl'); 
